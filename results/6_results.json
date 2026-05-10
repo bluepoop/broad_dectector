@@ -1,0 +1,2215 @@
+{
+  "image_path": "test_img/6.jpg",
+  "timestamp": "2026-05-08T21:07:15.817718",
+  "total_wells": 96,
+  "wells": [
+    {
+      "well_id": "A1",
+      "row": 0,
+      "col": 0,
+      "rgb": {
+        "r": 138,
+        "g": 139,
+        "b": 140
+      },
+      "hsl": {
+        "h": 210.0,
+        "s": 0.9,
+        "l": 54.6
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        368,
+        -89,
+        470,
+        5
+      ]
+    },
+    {
+      "well_id": "A2",
+      "row": 0,
+      "col": 1,
+      "rgb": {
+        "r": 171,
+        "g": 175,
+        "b": 181
+      },
+      "hsl": {
+        "h": 218.1,
+        "s": 6.6,
+        "l": 69.1
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        478,
+        -89,
+        580,
+        5
+      ]
+    },
+    {
+      "well_id": "A3",
+      "row": 0,
+      "col": 2,
+      "rgb": {
+        "r": 149,
+        "g": 148,
+        "b": 154
+      },
+      "hsl": {
+        "h": 248.3,
+        "s": 2.8,
+        "l": 59.2
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        588,
+        -89,
+        690,
+        5
+      ]
+    },
+    {
+      "well_id": "A4",
+      "row": 0,
+      "col": 3,
+      "rgb": {
+        "r": 139,
+        "g": 143,
+        "b": 146
+      },
+      "hsl": {
+        "h": 205.9,
+        "s": 3.3,
+        "l": 55.9
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        698,
+        -89,
+        800,
+        5
+      ]
+    },
+    {
+      "well_id": "A5",
+      "row": 0,
+      "col": 4,
+      "rgb": {
+        "r": 166,
+        "g": 169,
+        "b": 174
+      },
+      "hsl": {
+        "h": 215.7,
+        "s": 4.9,
+        "l": 66.7
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        808,
+        -89,
+        910,
+        5
+      ]
+    },
+    {
+      "well_id": "A6",
+      "row": 0,
+      "col": 5,
+      "rgb": {
+        "r": 173,
+        "g": 183,
+        "b": 190
+      },
+      "hsl": {
+        "h": 203.6,
+        "s": 11.4,
+        "l": 71.1
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        918,
+        -89,
+        1020,
+        5
+      ]
+    },
+    {
+      "well_id": "A7",
+      "row": 0,
+      "col": 6,
+      "rgb": {
+        "r": 186,
+        "g": 193,
+        "b": 199
+      },
+      "hsl": {
+        "h": 210.0,
+        "s": 9.9,
+        "l": 75.5
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1028,
+        -89,
+        1130,
+        5
+      ]
+    },
+    {
+      "well_id": "A8",
+      "row": 0,
+      "col": 7,
+      "rgb": {
+        "r": 186,
+        "g": 195,
+        "b": 205
+      },
+      "hsl": {
+        "h": 212.3,
+        "s": 15.6,
+        "l": 76.7
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1138,
+        -89,
+        1240,
+        5
+      ]
+    },
+    {
+      "well_id": "A9",
+      "row": 0,
+      "col": 8,
+      "rgb": {
+        "r": 95,
+        "g": 104,
+        "b": 108
+      },
+      "hsl": {
+        "h": 196.9,
+        "s": 6.3,
+        "l": 39.8
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1248,
+        -89,
+        1350,
+        5
+      ]
+    },
+    {
+      "well_id": "A10",
+      "row": 0,
+      "col": 9,
+      "rgb": {
+        "r": null,
+        "g": null,
+        "b": null
+      },
+      "hsl": {
+        "h": null,
+        "s": null,
+        "l": null
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1358,
+        -89,
+        1460,
+        5
+      ]
+    },
+    {
+      "well_id": "A11",
+      "row": 0,
+      "col": 10,
+      "rgb": {
+        "r": null,
+        "g": null,
+        "b": null
+      },
+      "hsl": {
+        "h": null,
+        "s": null,
+        "l": null
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1468,
+        -89,
+        1570,
+        5
+      ]
+    },
+    {
+      "well_id": "A12",
+      "row": 0,
+      "col": 11,
+      "rgb": {
+        "r": null,
+        "g": null,
+        "b": null
+      },
+      "hsl": {
+        "h": null,
+        "s": null,
+        "l": null
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1578,
+        -89,
+        1680,
+        5
+      ]
+    },
+    {
+      "well_id": "B1",
+      "row": 1,
+      "col": 0,
+      "rgb": {
+        "r": 142,
+        "g": 69,
+        "b": 8
+      },
+      "hsl": {
+        "h": 27.6,
+        "s": 89.5,
+        "l": 29.4
+      },
+      "confidence": 0.2662261128425598,
+      "inferred": false,
+      "bbox": [
+        372,
+        6,
+        480,
+        111
+      ]
+    },
+    {
+      "well_id": "B2",
+      "row": 1,
+      "col": 1,
+      "rgb": {
+        "r": 0,
+        "g": 12,
+        "b": 189
+      },
+      "hsl": {
+        "h": 236.3,
+        "s": 99.9,
+        "l": 37.1
+      },
+      "confidence": 0.626490592956543,
+      "inferred": false,
+      "bbox": [
+        484,
+        5,
+        581,
+        109
+      ]
+    },
+    {
+      "well_id": "B3",
+      "row": 1,
+      "col": 2,
+      "rgb": {
+        "r": 166,
+        "g": 17,
+        "b": 2
+      },
+      "hsl": {
+        "h": 5.4,
+        "s": 97.2,
+        "l": 33.0
+      },
+      "confidence": 0.46082359552383423,
+      "inferred": false,
+      "bbox": [
+        589,
+        5,
+        693,
+        109
+      ]
+    },
+    {
+      "well_id": "B4",
+      "row": 1,
+      "col": 3,
+      "rgb": {
+        "r": 195,
+        "g": 203,
+        "b": 206
+      },
+      "hsl": {
+        "h": 200.6,
+        "s": 10.2,
+        "l": 78.8
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        698,
+        11,
+        800,
+        106
+      ]
+    },
+    {
+      "well_id": "B5",
+      "row": 1,
+      "col": 4,
+      "rgb": {
+        "r": 156,
+        "g": 87,
+        "b": 10
+      },
+      "hsl": {
+        "h": 31.6,
+        "s": 87.8,
+        "l": 32.5
+      },
+      "confidence": 0.48870036005973816,
+      "inferred": false,
+      "bbox": [
+        800,
+        6,
+        911,
+        115
+      ]
+    },
+    {
+      "well_id": "B6",
+      "row": 1,
+      "col": 5,
+      "rgb": {
+        "r": 0,
+        "g": 3,
+        "b": 172
+      },
+      "hsl": {
+        "h": 238.9,
+        "s": 100.0,
+        "l": 33.8
+      },
+      "confidence": 0.35220789909362793,
+      "inferred": false,
+      "bbox": [
+        913,
+        5,
+        1015,
+        110
+      ]
+    },
+    {
+      "well_id": "B7",
+      "row": 1,
+      "col": 6,
+      "rgb": {
+        "r": 165,
+        "g": 22,
+        "b": 20
+      },
+      "hsl": {
+        "h": 1.1,
+        "s": 78.4,
+        "l": 36.2
+      },
+      "confidence": 0.3166655898094177,
+      "inferred": false,
+      "bbox": [
+        1013,
+        6,
+        1125,
+        117
+      ]
+    },
+    {
+      "well_id": "B8",
+      "row": 1,
+      "col": 7,
+      "rgb": {
+        "r": 170,
+        "g": 181,
+        "b": 187
+      },
+      "hsl": {
+        "h": 201.5,
+        "s": 11.0,
+        "l": 70.0
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1138,
+        11,
+        1240,
+        106
+      ]
+    },
+    {
+      "well_id": "B9",
+      "row": 1,
+      "col": 8,
+      "rgb": {
+        "r": 175,
+        "g": 187,
+        "b": 196
+      },
+      "hsl": {
+        "h": 205.1,
+        "s": 15.5,
+        "l": 72.8
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1248,
+        11,
+        1350,
+        106
+      ]
+    },
+    {
+      "well_id": "B10",
+      "row": 1,
+      "col": 9,
+      "rgb": {
+        "r": null,
+        "g": null,
+        "b": null
+      },
+      "hsl": {
+        "h": null,
+        "s": null,
+        "l": null
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1358,
+        11,
+        1460,
+        106
+      ]
+    },
+    {
+      "well_id": "B11",
+      "row": 1,
+      "col": 10,
+      "rgb": {
+        "r": null,
+        "g": null,
+        "b": null
+      },
+      "hsl": {
+        "h": null,
+        "s": null,
+        "l": null
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1468,
+        11,
+        1570,
+        106
+      ]
+    },
+    {
+      "well_id": "B12",
+      "row": 1,
+      "col": 11,
+      "rgb": {
+        "r": null,
+        "g": null,
+        "b": null
+      },
+      "hsl": {
+        "h": null,
+        "s": null,
+        "l": null
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1578,
+        11,
+        1680,
+        106
+      ]
+    },
+    {
+      "well_id": "C1",
+      "row": 2,
+      "col": 0,
+      "rgb": {
+        "r": 158,
+        "g": 78,
+        "b": 3
+      },
+      "hsl": {
+        "h": 29.2,
+        "s": 96.9,
+        "l": 31.5
+      },
+      "confidence": 0.8044979572296143,
+      "inferred": false,
+      "bbox": [
+        377,
+        106,
+        480,
+        210
+      ]
+    },
+    {
+      "well_id": "C2",
+      "row": 2,
+      "col": 1,
+      "rgb": {
+        "r": 0,
+        "g": 18,
+        "b": 211
+      },
+      "hsl": {
+        "h": 234.8,
+        "s": 100.0,
+        "l": 41.3
+      },
+      "confidence": 0.9447360634803772,
+      "inferred": false,
+      "bbox": [
+        485,
+        106,
+        580,
+        209
+      ]
+    },
+    {
+      "well_id": "C3",
+      "row": 2,
+      "col": 2,
+      "rgb": {
+        "r": 178,
+        "g": 9,
+        "b": 7
+      },
+      "hsl": {
+        "h": 0.8,
+        "s": 92.6,
+        "l": 36.2
+      },
+      "confidence": 0.8610199093818665,
+      "inferred": false,
+      "bbox": [
+        591,
+        109,
+        691,
+        213
+      ]
+    },
+    {
+      "well_id": "C4",
+      "row": 2,
+      "col": 3,
+      "rgb": {
+        "r": 203,
+        "g": 213,
+        "b": 216
+      },
+      "hsl": {
+        "h": 194.4,
+        "s": 13.8,
+        "l": 82.1
+      },
+      "confidence": 0.58868807554245,
+      "inferred": false,
+      "bbox": [
+        693,
+        113,
+        795,
+        206
+      ]
+    },
+    {
+      "well_id": "C5",
+      "row": 2,
+      "col": 4,
+      "rgb": {
+        "r": 161,
+        "g": 95,
+        "b": 6
+      },
+      "hsl": {
+        "h": 34.4,
+        "s": 92.7,
+        "l": 32.8
+      },
+      "confidence": 0.9584571719169617,
+      "inferred": false,
+      "bbox": [
+        803,
+        108,
+        906,
+        215
+      ]
+    },
+    {
+      "well_id": "C6",
+      "row": 2,
+      "col": 5,
+      "rgb": {
+        "r": 3,
+        "g": 8,
+        "b": 180
+      },
+      "hsl": {
+        "h": 238.3,
+        "s": 97.1,
+        "l": 35.9
+      },
+      "confidence": 0.8927496671676636,
+      "inferred": false,
+      "bbox": [
+        918,
+        111,
+        1016,
+        216
+      ]
+    },
+    {
+      "well_id": "C7",
+      "row": 2,
+      "col": 6,
+      "rgb": {
+        "r": 179,
+        "g": 8,
+        "b": 3
+      },
+      "hsl": {
+        "h": 1.6,
+        "s": 96.8,
+        "l": 35.6
+      },
+      "confidence": 0.847011923789978,
+      "inferred": false,
+      "bbox": [
+        1013,
+        114,
+        1126,
+        210
+      ]
+    },
+    {
+      "well_id": "C8",
+      "row": 2,
+      "col": 7,
+      "rgb": {
+        "r": 179,
+        "g": 190,
+        "b": 195
+      },
+      "hsl": {
+        "h": 197.9,
+        "s": 11.9,
+        "l": 73.3
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1138,
+        112,
+        1240,
+        207
+      ]
+    },
+    {
+      "well_id": "C9",
+      "row": 2,
+      "col": 8,
+      "rgb": {
+        "r": 164,
+        "g": 174,
+        "b": 183
+      },
+      "hsl": {
+        "h": 206.5,
+        "s": 11.5,
+        "l": 68.0
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1248,
+        112,
+        1350,
+        207
+      ]
+    },
+    {
+      "well_id": "C10",
+      "row": 2,
+      "col": 9,
+      "rgb": {
+        "r": null,
+        "g": null,
+        "b": null
+      },
+      "hsl": {
+        "h": null,
+        "s": null,
+        "l": null
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1358,
+        112,
+        1460,
+        207
+      ]
+    },
+    {
+      "well_id": "C11",
+      "row": 2,
+      "col": 10,
+      "rgb": {
+        "r": null,
+        "g": null,
+        "b": null
+      },
+      "hsl": {
+        "h": null,
+        "s": null,
+        "l": null
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1468,
+        112,
+        1570,
+        207
+      ]
+    },
+    {
+      "well_id": "C12",
+      "row": 2,
+      "col": 11,
+      "rgb": {
+        "r": null,
+        "g": null,
+        "b": null
+      },
+      "hsl": {
+        "h": null,
+        "s": null,
+        "l": null
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1578,
+        112,
+        1680,
+        207
+      ]
+    },
+    {
+      "well_id": "D1",
+      "row": 3,
+      "col": 0,
+      "rgb": {
+        "r": 172,
+        "g": 98,
+        "b": 0
+      },
+      "hsl": {
+        "h": 34.1,
+        "s": 100.0,
+        "l": 33.6
+      },
+      "confidence": 0.7127161622047424,
+      "inferred": false,
+      "bbox": [
+        377,
+        213,
+        481,
+        305
+      ]
+    },
+    {
+      "well_id": "D2",
+      "row": 3,
+      "col": 1,
+      "rgb": {
+        "r": 0,
+        "g": 21,
+        "b": 221
+      },
+      "hsl": {
+        "h": 234.2,
+        "s": 100.0,
+        "l": 43.3
+      },
+      "confidence": 0.8824897408485413,
+      "inferred": false,
+      "bbox": [
+        486,
+        214,
+        580,
+        303
+      ]
+    },
+    {
+      "well_id": "D3",
+      "row": 3,
+      "col": 2,
+      "rgb": {
+        "r": 192,
+        "g": 15,
+        "b": 0
+      },
+      "hsl": {
+        "h": 4.6,
+        "s": 100.0,
+        "l": 37.7
+      },
+      "confidence": 0.7088476419448853,
+      "inferred": false,
+      "bbox": [
+        590,
+        214,
+        692,
+        305
+      ]
+    },
+    {
+      "well_id": "D4",
+      "row": 3,
+      "col": 3,
+      "rgb": {
+        "r": 207,
+        "g": 216,
+        "b": 218
+      },
+      "hsl": {
+        "h": 189.0,
+        "s": 13.0,
+        "l": 83.3
+      },
+      "confidence": 0.5244939923286438,
+      "inferred": false,
+      "bbox": [
+        693,
+        214,
+        797,
+        310
+      ]
+    },
+    {
+      "well_id": "D5",
+      "row": 3,
+      "col": 4,
+      "rgb": {
+        "r": 177,
+        "g": 80,
+        "b": 0
+      },
+      "hsl": {
+        "h": 27.1,
+        "s": 100.0,
+        "l": 34.7
+      },
+      "confidence": 0.9007130265235901,
+      "inferred": false,
+      "bbox": [
+        803,
+        215,
+        905,
+        305
+      ]
+    },
+    {
+      "well_id": "D6",
+      "row": 3,
+      "col": 5,
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 177
+      },
+      "hsl": {
+        "h": 240.0,
+        "s": 100.0,
+        "l": 34.7
+      },
+      "confidence": 0.7885578870773315,
+      "inferred": false,
+      "bbox": [
+        916,
+        219,
+        1017,
+        308
+      ]
+    },
+    {
+      "well_id": "D7",
+      "row": 3,
+      "col": 6,
+      "rgb": {
+        "r": 180,
+        "g": 3,
+        "b": 3
+      },
+      "hsl": {
+        "h": 0.1,
+        "s": 96.4,
+        "l": 35.9
+      },
+      "confidence": 0.8067724704742432,
+      "inferred": false,
+      "bbox": [
+        1012,
+        219,
+        1124,
+        309
+      ]
+    },
+    {
+      "well_id": "D8",
+      "row": 3,
+      "col": 7,
+      "rgb": {
+        "r": 181,
+        "g": 193,
+        "b": 197
+      },
+      "hsl": {
+        "h": 195.4,
+        "s": 11.6,
+        "l": 74.1
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1138,
+        213,
+        1240,
+        308
+      ]
+    },
+    {
+      "well_id": "D9",
+      "row": 3,
+      "col": 8,
+      "rgb": {
+        "r": 168,
+        "g": 179,
+        "b": 187
+      },
+      "hsl": {
+        "h": 204.1,
+        "s": 12.6,
+        "l": 69.5
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1248,
+        213,
+        1350,
+        308
+      ]
+    },
+    {
+      "well_id": "D10",
+      "row": 3,
+      "col": 9,
+      "rgb": {
+        "r": null,
+        "g": null,
+        "b": null
+      },
+      "hsl": {
+        "h": null,
+        "s": null,
+        "l": null
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1358,
+        213,
+        1460,
+        308
+      ]
+    },
+    {
+      "well_id": "D11",
+      "row": 3,
+      "col": 10,
+      "rgb": {
+        "r": null,
+        "g": null,
+        "b": null
+      },
+      "hsl": {
+        "h": null,
+        "s": null,
+        "l": null
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1468,
+        213,
+        1570,
+        308
+      ]
+    },
+    {
+      "well_id": "D12",
+      "row": 3,
+      "col": 11,
+      "rgb": {
+        "r": null,
+        "g": null,
+        "b": null
+      },
+      "hsl": {
+        "h": null,
+        "s": null,
+        "l": null
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1578,
+        213,
+        1680,
+        308
+      ]
+    },
+    {
+      "well_id": "E1",
+      "row": 4,
+      "col": 0,
+      "rgb": {
+        "r": 176,
+        "g": 102,
+        "b": 0
+      },
+      "hsl": {
+        "h": 34.8,
+        "s": 100.0,
+        "l": 34.5
+      },
+      "confidence": 0.6271470785140991,
+      "inferred": false,
+      "bbox": [
+        377,
+        320,
+        480,
+        408
+      ]
+    },
+    {
+      "well_id": "E2",
+      "row": 4,
+      "col": 1,
+      "rgb": {
+        "r": 0,
+        "g": 22,
+        "b": 221
+      },
+      "hsl": {
+        "h": 234.1,
+        "s": 100.0,
+        "l": 43.3
+      },
+      "confidence": 0.8797586560249329,
+      "inferred": false,
+      "bbox": [
+        487,
+        318,
+        580,
+        407
+      ]
+    },
+    {
+      "well_id": "E3",
+      "row": 4,
+      "col": 2,
+      "rgb": {
+        "r": 193,
+        "g": 14,
+        "b": 0
+      },
+      "hsl": {
+        "h": 4.5,
+        "s": 100.0,
+        "l": 37.9
+      },
+      "confidence": 0.60575270652771,
+      "inferred": false,
+      "bbox": [
+        590,
+        317,
+        690,
+        409
+      ]
+    },
+    {
+      "well_id": "E4",
+      "row": 4,
+      "col": 3,
+      "rgb": {
+        "r": 210,
+        "g": 220,
+        "b": 224
+      },
+      "hsl": {
+        "h": 196.6,
+        "s": 18.7,
+        "l": 85.2
+      },
+      "confidence": 0.28106871247291565,
+      "inferred": false,
+      "bbox": [
+        692,
+        319,
+        795,
+        406
+      ]
+    },
+    {
+      "well_id": "E5",
+      "row": 4,
+      "col": 4,
+      "rgb": {
+        "r": 182,
+        "g": 86,
+        "b": 0
+      },
+      "hsl": {
+        "h": 28.4,
+        "s": 99.8,
+        "l": 35.6
+      },
+      "confidence": 0.838244616985321,
+      "inferred": false,
+      "bbox": [
+        806,
+        321,
+        905,
+        412
+      ]
+    },
+    {
+      "well_id": "E6",
+      "row": 4,
+      "col": 5,
+      "rgb": {
+        "r": 0,
+        "g": 29,
+        "b": 207
+      },
+      "hsl": {
+        "h": 231.6,
+        "s": 100.0,
+        "l": 40.5
+      },
+      "confidence": 0.6795586347579956,
+      "inferred": false,
+      "bbox": [
+        916,
+        319,
+        1013,
+        411
+      ]
+    },
+    {
+      "well_id": "E7",
+      "row": 4,
+      "col": 6,
+      "rgb": {
+        "r": 178,
+        "g": 1,
+        "b": 2
+      },
+      "hsl": {
+        "h": 359.7,
+        "s": 99.0,
+        "l": 35.1
+      },
+      "confidence": 0.5935959815979004,
+      "inferred": false,
+      "bbox": [
+        1014,
+        317,
+        1125,
+        412
+      ]
+    },
+    {
+      "well_id": "E8",
+      "row": 4,
+      "col": 7,
+      "rgb": {
+        "r": 180,
+        "g": 191,
+        "b": 194
+      },
+      "hsl": {
+        "h": 194.9,
+        "s": 10.3,
+        "l": 73.5
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1138,
+        314,
+        1240,
+        409
+      ]
+    },
+    {
+      "well_id": "E9",
+      "row": 4,
+      "col": 8,
+      "rgb": {
+        "r": 172,
+        "g": 184,
+        "b": 192
+      },
+      "hsl": {
+        "h": 204.9,
+        "s": 14.1,
+        "l": 71.4
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1248,
+        314,
+        1350,
+        409
+      ]
+    },
+    {
+      "well_id": "E10",
+      "row": 4,
+      "col": 9,
+      "rgb": {
+        "r": null,
+        "g": null,
+        "b": null
+      },
+      "hsl": {
+        "h": null,
+        "s": null,
+        "l": null
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1358,
+        314,
+        1460,
+        409
+      ]
+    },
+    {
+      "well_id": "E11",
+      "row": 4,
+      "col": 10,
+      "rgb": {
+        "r": null,
+        "g": null,
+        "b": null
+      },
+      "hsl": {
+        "h": null,
+        "s": null,
+        "l": null
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1468,
+        314,
+        1570,
+        409
+      ]
+    },
+    {
+      "well_id": "E12",
+      "row": 4,
+      "col": 11,
+      "rgb": {
+        "r": null,
+        "g": null,
+        "b": null
+      },
+      "hsl": {
+        "h": null,
+        "s": null,
+        "l": null
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1578,
+        314,
+        1680,
+        409
+      ]
+    },
+    {
+      "well_id": "F1",
+      "row": 5,
+      "col": 0,
+      "rgb": {
+        "r": 173,
+        "g": 99,
+        "b": 0
+      },
+      "hsl": {
+        "h": 34.5,
+        "s": 100.0,
+        "l": 33.9
+      },
+      "confidence": 0.860432505607605,
+      "inferred": false,
+      "bbox": [
+        375,
+        414,
+        479,
+        503
+      ]
+    },
+    {
+      "well_id": "F2",
+      "row": 5,
+      "col": 1,
+      "rgb": {
+        "r": 0,
+        "g": 21,
+        "b": 221
+      },
+      "hsl": {
+        "h": 234.3,
+        "s": 100.0,
+        "l": 43.3
+      },
+      "confidence": 0.920665442943573,
+      "inferred": false,
+      "bbox": [
+        482,
+        416,
+        580,
+        501
+      ]
+    },
+    {
+      "well_id": "F3",
+      "row": 5,
+      "col": 2,
+      "rgb": {
+        "r": 198,
+        "g": 12,
+        "b": 0
+      },
+      "hsl": {
+        "h": 3.8,
+        "s": 100.0,
+        "l": 38.8
+      },
+      "confidence": 0.8445547223091125,
+      "inferred": false,
+      "bbox": [
+        592,
+        416,
+        693,
+        501
+      ]
+    },
+    {
+      "well_id": "F4",
+      "row": 5,
+      "col": 3,
+      "rgb": {
+        "r": 207,
+        "g": 220,
+        "b": 222
+      },
+      "hsl": {
+        "h": 186.9,
+        "s": 18.6,
+        "l": 84.0
+      },
+      "confidence": 0.5432482957839966,
+      "inferred": false,
+      "bbox": [
+        693,
+        414,
+        800,
+        507
+      ]
+    },
+    {
+      "well_id": "F5",
+      "row": 5,
+      "col": 4,
+      "rgb": {
+        "r": 201,
+        "g": 212,
+        "b": 215
+      },
+      "hsl": {
+        "h": 193.5,
+        "s": 15.5,
+        "l": 81.7
+      },
+      "confidence": 0.4076556861400604,
+      "inferred": false,
+      "bbox": [
+        800,
+        408,
+        911,
+        510
+      ]
+    },
+    {
+      "well_id": "F6",
+      "row": 5,
+      "col": 5,
+      "rgb": {
+        "r": 201,
+        "g": 211,
+        "b": 215
+      },
+      "hsl": {
+        "h": 194.5,
+        "s": 15.1,
+        "l": 81.4
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        918,
+        415,
+        1020,
+        510
+      ]
+    },
+    {
+      "well_id": "F7",
+      "row": 5,
+      "col": 6,
+      "rgb": {
+        "r": 192,
+        "g": 203,
+        "b": 208
+      },
+      "hsl": {
+        "h": 198.2,
+        "s": 15.4,
+        "l": 78.4
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1028,
+        415,
+        1130,
+        510
+      ]
+    },
+    {
+      "well_id": "F8",
+      "row": 5,
+      "col": 7,
+      "rgb": {
+        "r": 176,
+        "g": 187,
+        "b": 192
+      },
+      "hsl": {
+        "h": 199.1,
+        "s": 11.6,
+        "l": 72.2
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1138,
+        415,
+        1240,
+        510
+      ]
+    },
+    {
+      "well_id": "F9",
+      "row": 5,
+      "col": 8,
+      "rgb": {
+        "r": 168,
+        "g": 178,
+        "b": 186
+      },
+      "hsl": {
+        "h": 206.5,
+        "s": 11.6,
+        "l": 69.3
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1248,
+        415,
+        1350,
+        510
+      ]
+    },
+    {
+      "well_id": "F10",
+      "row": 5,
+      "col": 9,
+      "rgb": {
+        "r": null,
+        "g": null,
+        "b": null
+      },
+      "hsl": {
+        "h": null,
+        "s": null,
+        "l": null
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1358,
+        415,
+        1460,
+        510
+      ]
+    },
+    {
+      "well_id": "F11",
+      "row": 5,
+      "col": 10,
+      "rgb": {
+        "r": null,
+        "g": null,
+        "b": null
+      },
+      "hsl": {
+        "h": null,
+        "s": null,
+        "l": null
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1468,
+        415,
+        1570,
+        510
+      ]
+    },
+    {
+      "well_id": "F12",
+      "row": 5,
+      "col": 11,
+      "rgb": {
+        "r": null,
+        "g": null,
+        "b": null
+      },
+      "hsl": {
+        "h": null,
+        "s": null,
+        "l": null
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1578,
+        415,
+        1680,
+        510
+      ]
+    },
+    {
+      "well_id": "G1",
+      "row": 6,
+      "col": 0,
+      "rgb": {
+        "r": 151,
+        "g": 83,
+        "b": 0
+      },
+      "hsl": {
+        "h": 32.7,
+        "s": 100.0,
+        "l": 29.7
+      },
+      "confidence": 0.6102353930473328,
+      "inferred": false,
+      "bbox": [
+        369,
+        510,
+        477,
+        616
+      ]
+    },
+    {
+      "well_id": "G2",
+      "row": 6,
+      "col": 1,
+      "rgb": {
+        "r": 0,
+        "g": 10,
+        "b": 211
+      },
+      "hsl": {
+        "h": 237.1,
+        "s": 100.0,
+        "l": 41.3
+      },
+      "confidence": 0.5723884105682373,
+      "inferred": false,
+      "bbox": [
+        478,
+        511,
+        585,
+        615
+      ]
+    },
+    {
+      "well_id": "G3",
+      "row": 6,
+      "col": 2,
+      "rgb": {
+        "r": 176,
+        "g": 0,
+        "b": 0
+      },
+      "hsl": {
+        "h": 0.1,
+        "s": 99.9,
+        "l": 34.6
+      },
+      "confidence": 0.5911291241645813,
+      "inferred": false,
+      "bbox": [
+        587,
+        512,
+        692,
+        616
+      ]
+    },
+    {
+      "well_id": "G4",
+      "row": 6,
+      "col": 3,
+      "rgb": {
+        "r": 199,
+        "g": 211,
+        "b": 213
+      },
+      "hsl": {
+        "h": 189.5,
+        "s": 14.6,
+        "l": 80.8
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        698,
+        516,
+        800,
+        611
+      ]
+    },
+    {
+      "well_id": "G5",
+      "row": 6,
+      "col": 4,
+      "rgb": {
+        "r": 194,
+        "g": 207,
+        "b": 210
+      },
+      "hsl": {
+        "h": 188.4,
+        "s": 14.9,
+        "l": 79.1
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        808,
+        516,
+        910,
+        611
+      ]
+    },
+    {
+      "well_id": "G6",
+      "row": 6,
+      "col": 5,
+      "rgb": {
+        "r": 190,
+        "g": 202,
+        "b": 206
+      },
+      "hsl": {
+        "h": 191.4,
+        "s": 13.9,
+        "l": 77.5
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        918,
+        516,
+        1020,
+        611
+      ]
+    },
+    {
+      "well_id": "G7",
+      "row": 6,
+      "col": 6,
+      "rgb": {
+        "r": 179,
+        "g": 190,
+        "b": 196
+      },
+      "hsl": {
+        "h": 202.9,
+        "s": 12.7,
+        "l": 73.6
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1028,
+        516,
+        1130,
+        611
+      ]
+    },
+    {
+      "well_id": "G8",
+      "row": 6,
+      "col": 7,
+      "rgb": {
+        "r": 176,
+        "g": 187,
+        "b": 192
+      },
+      "hsl": {
+        "h": 199.3,
+        "s": 11.6,
+        "l": 72.1
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1138,
+        516,
+        1240,
+        611
+      ]
+    },
+    {
+      "well_id": "G9",
+      "row": 6,
+      "col": 8,
+      "rgb": {
+        "r": 166,
+        "g": 178,
+        "b": 186
+      },
+      "hsl": {
+        "h": 206.1,
+        "s": 12.5,
+        "l": 69.1
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1248,
+        516,
+        1350,
+        611
+      ]
+    },
+    {
+      "well_id": "G10",
+      "row": 6,
+      "col": 9,
+      "rgb": {
+        "r": null,
+        "g": null,
+        "b": null
+      },
+      "hsl": {
+        "h": null,
+        "s": null,
+        "l": null
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1358,
+        516,
+        1460,
+        611
+      ]
+    },
+    {
+      "well_id": "G11",
+      "row": 6,
+      "col": 10,
+      "rgb": {
+        "r": null,
+        "g": null,
+        "b": null
+      },
+      "hsl": {
+        "h": null,
+        "s": null,
+        "l": null
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1468,
+        516,
+        1570,
+        611
+      ]
+    },
+    {
+      "well_id": "G12",
+      "row": 6,
+      "col": 11,
+      "rgb": {
+        "r": null,
+        "g": null,
+        "b": null
+      },
+      "hsl": {
+        "h": null,
+        "s": null,
+        "l": null
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1578,
+        516,
+        1680,
+        611
+      ]
+    },
+    {
+      "well_id": "H1",
+      "row": 7,
+      "col": 0,
+      "rgb": {
+        "r": 185,
+        "g": 195,
+        "b": 198
+      },
+      "hsl": {
+        "h": 195.8,
+        "s": 10.4,
+        "l": 75.1
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        368,
+        617,
+        470,
+        712
+      ]
+    },
+    {
+      "well_id": "H2",
+      "row": 7,
+      "col": 1,
+      "rgb": {
+        "r": 192,
+        "g": 204,
+        "b": 205
+      },
+      "hsl": {
+        "h": 187.9,
+        "s": 11.9,
+        "l": 77.9
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        478,
+        617,
+        580,
+        712
+      ]
+    },
+    {
+      "well_id": "H3",
+      "row": 7,
+      "col": 2,
+      "rgb": {
+        "r": 190,
+        "g": 202,
+        "b": 205
+      },
+      "hsl": {
+        "h": 192.8,
+        "s": 13.6,
+        "l": 77.5
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        588,
+        617,
+        690,
+        712
+      ]
+    },
+    {
+      "well_id": "H4",
+      "row": 7,
+      "col": 3,
+      "rgb": {
+        "r": 187,
+        "g": 199,
+        "b": 204
+      },
+      "hsl": {
+        "h": 197.8,
+        "s": 14.8,
+        "l": 76.7
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        698,
+        617,
+        800,
+        712
+      ]
+    },
+    {
+      "well_id": "H5",
+      "row": 7,
+      "col": 4,
+      "rgb": {
+        "r": 180,
+        "g": 193,
+        "b": 198
+      },
+      "hsl": {
+        "h": 194.0,
+        "s": 13.5,
+        "l": 74.0
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        808,
+        617,
+        910,
+        712
+      ]
+    },
+    {
+      "well_id": "H6",
+      "row": 7,
+      "col": 5,
+      "rgb": {
+        "r": 170,
+        "g": 183,
+        "b": 189
+      },
+      "hsl": {
+        "h": 197.4,
+        "s": 12.3,
+        "l": 70.3
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        918,
+        617,
+        1020,
+        712
+      ]
+    },
+    {
+      "well_id": "H7",
+      "row": 7,
+      "col": 6,
+      "rgb": {
+        "r": 166,
+        "g": 178,
+        "b": 184
+      },
+      "hsl": {
+        "h": 197.3,
+        "s": 11.2,
+        "l": 68.5
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1028,
+        617,
+        1130,
+        712
+      ]
+    },
+    {
+      "well_id": "H8",
+      "row": 7,
+      "col": 7,
+      "rgb": {
+        "r": 141,
+        "g": 152,
+        "b": 157
+      },
+      "hsl": {
+        "h": 198.9,
+        "s": 7.5,
+        "l": 58.5
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1138,
+        617,
+        1240,
+        712
+      ]
+    },
+    {
+      "well_id": "H9",
+      "row": 7,
+      "col": 8,
+      "rgb": {
+        "r": 141,
+        "g": 153,
+        "b": 160
+      },
+      "hsl": {
+        "h": 201.6,
+        "s": 9.1,
+        "l": 59.0
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1248,
+        617,
+        1350,
+        712
+      ]
+    },
+    {
+      "well_id": "H10",
+      "row": 7,
+      "col": 9,
+      "rgb": {
+        "r": null,
+        "g": null,
+        "b": null
+      },
+      "hsl": {
+        "h": null,
+        "s": null,
+        "l": null
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1358,
+        617,
+        1460,
+        712
+      ]
+    },
+    {
+      "well_id": "H11",
+      "row": 7,
+      "col": 10,
+      "rgb": {
+        "r": null,
+        "g": null,
+        "b": null
+      },
+      "hsl": {
+        "h": null,
+        "s": null,
+        "l": null
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1468,
+        617,
+        1570,
+        712
+      ]
+    },
+    {
+      "well_id": "H12",
+      "row": 7,
+      "col": 11,
+      "rgb": {
+        "r": null,
+        "g": null,
+        "b": null
+      },
+      "hsl": {
+        "h": null,
+        "s": null,
+        "l": null
+      },
+      "confidence": 0.0,
+      "inferred": true,
+      "bbox": [
+        1578,
+        617,
+        1680,
+        712
+      ]
+    }
+  ]
+}
